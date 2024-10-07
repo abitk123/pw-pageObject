@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3557","Fill the Grid Form","chromium","Mon Oct 07 16:08:46 CEST 2024","passed","Mon Oct 07 16:08:50 CEST 2024","Page Object suite","testWIthFixtures.spec.ts","",""
